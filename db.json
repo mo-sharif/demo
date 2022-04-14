@@ -1,11 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "user": [
+    { "id": 1, "firstName": "Post 1", "lastName": "Post 1" },
+    { "id": 2, "firstName": "Post 1", "lastName": "Post 1" },
+    { "id": 3, "firstName": "Post 1", "lastName": "Post 1" },
+    { "id": 4, "firstName": "Post 1", "lastName": "Post 1" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "Hello World", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
